@@ -2,7 +2,7 @@
 
 Hello! In my Github account you will be able to see my upcoming projects on programming and cybersecurity. Aside from projects, there will also be write-ups or lab setups for documentation.
 
-This is my web portfolio:
+This is my web portfolio: https://virium-alnasl.github.io/
 
 <h2> WIP:</h2>
 
